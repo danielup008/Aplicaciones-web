@@ -1,0 +1,140 @@
+body{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+}
+.barra{
+    background-color:chartreuse;
+    height: 100px;
+    border: 7px solid #000000;
+    font-size: 30px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 0px 20px;
+    
+}
+
+.box {
+    text-align: center;
+    background-color: white;
+    width: 200px;
+    height: 90px;
+    margin: 5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header{
+    background-color:rgb(93, 124, 226);
+    height: 300px;
+    border: 7px solid black;
+    border-top: 7px;
+    font-size: 30px;
+}
+.container_two {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 0px 20px;
+}
+
+.banner{
+    background-color: white;
+    width: 800px;
+    height: 290px;
+    margin-right: auto;
+    margin-right: 20px;
+    margin-top: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.internal_container {
+    width: 200px;
+    height: 290px;
+    margin-left: auto;
+    margin-top: 4px;
+}
+
+.logo {
+    background-color: white;
+    padding: 12px;
+    margin-bottom: 5px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login {
+    background-color: white;
+    padding: 12px;
+    margin-bottom: 5px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form {
+    background-color: white;
+    padding: 11px;
+    margin-bottom: 5px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    background-color:rgb(125, 128, 91);
+    height: 100px;
+    border: 7px solid black;
+    border-top: 7px;
+    display: flex;
+    text-align: center;
+    align-items:center;
+    height: 500px;
+    font-size: 30px;
+    
+}
+
+.aside1 {
+    background-color: white;
+    width: 220px;
+    height: 490px;
+    margin-right: auto;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.aside2 {
+    background-color: white;
+    width: 220px;
+    height: 490px;
+    margin-left: auto;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.article {
+    background-color: white;
+    width: 500px;
+    height: 490px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background-color:rgb(255, 187, 0);
+    height: 50px;
+    border: 7px solid black;
+    border-top: 7px;
+}
+
+
+
